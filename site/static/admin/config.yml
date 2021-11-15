@@ -1,3 +1,4 @@
+site_url: https://stevebonhomme.dev
 backend:
   name: git-gateway
 

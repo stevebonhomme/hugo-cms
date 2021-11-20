@@ -3,6 +3,11 @@ backend:
   name: git-gateway
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 330c43545a40d7f088bc
+
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit

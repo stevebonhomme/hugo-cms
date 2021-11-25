@@ -10,28 +10,16 @@ values:
     text: >
       Teamwork is the collaborative effort of a group to achieve a common goal or to complete a task in the most effective and efficient way. This concept is seen within the greater framework of a team, which is a group of interdependent individuals who work together towards a common goal.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Innovation"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Innovation is the practical implementation of ideas that result in the introduction of new goods or services or improvement in offering goods or services. We can aid in establishing successful ideas to create new value.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Integrity"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Integrity in leaders refers to being honest, trustworthy, and reliable. Leaders with integrity act in accordance with their words (i.e. they practice what they preach) and own up to their mistakes, as opposed to hiding them, blaming their team, or making excuses.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+  - heading: "Customer Engagement"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Customer engagement is the emotional connection between a customer and a brand. Highly engaged customers buy more, promote more, and demonstrate more loyalty. Providing a high-quality customer experience is an important component in our customer engagement strategy.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---

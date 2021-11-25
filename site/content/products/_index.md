@@ -26,53 +26,49 @@ intro:
 main:
   heading: All the right tools for the job
   description: >
-    There is no one perfect tool for anything. I believe the perfect toolkit is put together by combining the best in breed and getting them to beautifully coexist togther, thats Jamstack. There is no better stack to power your web applications then this combination.
+    There is no one perfect tool for anything. I believe the perfect toolkit is put together by combining the best in breed and getting them to beautifully coexist togther, thats Jamstack. There is no better stack to power your web applications then this combination. Software is only a part of our toolkit, latest server hardware and experienced, trained personnel unleashes the stack. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A close-up of networking equipment
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Engineer checking networking equipment
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Technician repairing server
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      Getting my website developed by SBDEV was the best investment I ever made. I can now concentrate on my business and leave my development needs in Steve Bonhomme's capable hands!
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Amazingly polite and capable staff. Awesome finished products. I highly recommend SBDEV!
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to get started with your custom built content management system using the latest modern software tools and server hardware. Choose one of our monthly subscription plans to get started. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
+      plan: Business
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: 'Perfect for individual use or businesses getting started with web presence'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - Supports 200,000 visits/mo.
+        - Blog enabled
+        - Custom domain name with SSL
+      plan: Pro
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Ideal for developers!
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Supports 300,000 visits/mo.
+        - Blog and Ecommerce enabled
+        - Custom domain name with SSL
+      plan: Elite
       price: '?'
 ---
 

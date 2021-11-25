@@ -70,6 +70,11 @@ pricing:
         - Custom domain name with SSL
       plan: Elite
       price: '?'
+      - description: Ideal for power users and heavily trafficked sites!
+      items:
+        - Supports 1,000,000 visits/mo.
+        - Blog and Ecommerce enabled
+        - Custom domain name with SSL
 ---
 
 

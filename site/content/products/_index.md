@@ -1,55 +1,32 @@
 ---
-title: Our Coffee
+title: Products
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The means and know how to build modern applications for the web, native mobile apps and desktop. Modern web development architecture based on JavaScript, APIs, and Markup (JAM). Jamstack is the future while Lampstack is the past.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Content management systems that use Linux, Apache, MySQL and PHP such as WordPress, Drupal and Joomla power large portions of the web and use to be the standard. Times have changed, you need to change with it, we can help.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        We offer full development services using free and open source tools Strapi, NetlifyCMS, and Ghost, to name a few, all powered by the modern Jamstack architecture.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        GitHub provides code hosting services that allow developers to build software for open source and private projects in organizations. GitHub is where over 73 million developers shape the future of software together, and contribute to the open source community, and manage their Git repositories. All of our products are tightly integrated with Github. 
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Design APIs fast, manage content easily.
+        Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. Its WordPress on steroids!
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    The means and know how to build modern applications for the web, native mobile apps and desktop. Modern web development architecture based on JavaScript, APIs, and Markup (JAM). Jamstack is the future while Lampstack is the past.
 main:
-  heading: Great coffee with no compromises
+  heading: All the right tools for the job
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    There is no one perfect tool for anything. I believe the perfect toolkit is put together by combining the best in breed and getting them to beautifully coexist togther, thats Jamstack. There is no better stack to power your web applications then this combination.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg

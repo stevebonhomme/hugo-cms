@@ -47,34 +47,30 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to get started with your custom built content management system using the latest modern software tools and server hardware. Choose one of our monthly subscription plans to get started. Contact us about more details and payment info.
+    We make it easy to get started with your custom built content management system using the latest modern software tools and server hardware. Choose one of our monthly subscription plans to get started. Contact us for one on one consultation and payment info. All stacks are custom built to order.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Business
-      price: '50'
     - description: 'Perfect for individual use or businesses getting started with web presence'
       items:
         - Supports 200,000 visits/mo.
         - Blog enabled
         - Custom domain name with SSL
-      plan: Pro
-      price: '80'
-    - description: Ideal for developers!
+      plan: Business
+      price: '50'
+    - description: Ideal for developers! Lots of power with room to grow! Total control over CMS and hardware 
       items:
-        - Supports 300,000 visits/mo.
+        - Supports 500,000 visits/mo.
         - Blog and Ecommerce enabled
         - Custom domain name with SSL
-      plan: Elite
-      price: '?'
-      - description: Ideal for power users and heavily trafficked sites!
+      plan: Pro
+      price: '80'
+    - description: Ideal for power users and heavily trafficked sites!
       items:
         - Supports 1,000,000 visits/mo.
         - Blog and Ecommerce enabled
         - Custom domain name with SSL
+      plan: Elite
+      price: '?'
+      
 ---
 
 

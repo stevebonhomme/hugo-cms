@@ -1,6 +1,6 @@
 # Hugo template for Netlify CMS with Netlify Identity 
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms).
+This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), modified for my branding and content. 
 ## Getting started
 This is the Jamstack that powers my site [SBDEV](https://stevebonhomme.dev).
 
@@ -12,7 +12,10 @@ This Jamstack comes with everything to power a CMS built with modern web technol
 * A new repository in your GitHub account with the code
 * Full Continuous Deployment to Netlify's global CDN network
 * Control users and access with Netlify Identity
-* Manage content with Netlify CMS
+* Manage content/blog with Netlify CMS
+* Build email list using newsletter powered by Netlify Forms
+* Social Icons for popular social networks
+* Contact page with built in form
 
 ## Local Development
 

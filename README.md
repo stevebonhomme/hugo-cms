@@ -1,23 +1,21 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# Hugo template for Netlify CMS with Netlify Identity 
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
-
+This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), modified for my branding and content. 
 ## Getting started
+This is the Jamstack that powers my site [SBDEV](https://stevebonhomme.dev).
 
-Use our deploy button to get your own copy of the repository. 
+I can help you to launch your customized version in your very own repository. 
+Experienced developers feel free to clone, fork or submit pull requests.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
-
-This will setup everything needed for running the CMS:
+This Jamstack comes with everything to power a CMS built with modern web technology:
 
 * A new repository in your GitHub account with the code
 * Full Continuous Deployment to Netlify's global CDN network
 * Control users and access with Netlify Identity
-* Manage content with Netlify CMS
-
-Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
-
-Now you're all set, and you can start editing content!
+* Manage content/blog with Netlify CMS
+* Build email list using newsletter powered by Netlify Forms
+* Social Icons for popular social networks
+* Contact page with built in form
 
 ## Local Development
 
